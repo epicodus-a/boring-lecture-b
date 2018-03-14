@@ -1,9 +1,15 @@
-h2.intro {
+.intro {
   text-align: center;
-  font-family: fantasy;
-  font-size: 80;
+  font-size: 16;
 }
 
+.title {
+  font-family: fantasy;
+}
+
+.italics {
+  font-style: italic;
+}
 p.intro {
   text-align: center;
   font-family: sans-serif;
