@@ -1,3 +1,9 @@
+.lecture-border{
+  border-style: dotted;
+  border-color: blue;
+  border-width: medium;
+}
+
 .intro {
   text-align: center;
   font-size: 16;
